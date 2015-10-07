@@ -1,0 +1,63 @@
+"*":
+  "exception-reporting":
+    userId: "d4057cb0-edf4-1925-2d5d-f2e1ef28f601"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-material-ui"
+      "railscast-theme"
+    ]
+    ignoredNames: [
+      ".codekit-cache"
+    ]
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    fontSize: 12
+    fontFamily: "Hack, Menlo"
+  "ruby-test": {}
+  "linter-ruby": {}
+  "autocomplete-ruby": {}
+  "autocomplete-plus": {}
+  linter: {}
+  "atom-beautify":
+    _analyticsUserId: "69a39460-7d1c-49ff-b35b-4fc43d42433a"
+    css_convert_quotes: "single"
+    css_newline_between_rules: true
+    html_indent_size: 4
+    html_wrap_attributes_indent_size: 4
+    language_scss_default_beautifier: "CSScomb"
+    language_less_default_beautifier: "CSScomb"
+    language_css_default_beautifier: "CSScomb"
+    css_align_assignments: true
+    language_css_beautify_on_save: true
+    language_less_beautify_on_save: true
+    language_sass_beautify_on_save: true
+    language_sass_default_beautifier: "CSScomb"
+    language_scss_beautify_on_save: true
+  minimap:
+    plugins:
+      linter: true
+      pigments: true
+  "atom-css-comb":
+    readyMadeConfigs: "csscomb"
+    projectConfigs: ".csscomb.json"
+  "linter-scss-lint":
+    executablePath: "/Users/tomskarbek/.rbenv/shims/scss-lint"
+  "linter-php":
+    executablePath: "/usr/bin/php"
+  "one-dark-ui": {}
+  "atom-material-ui":
+    rippleAccentColor: true
+    compactTreeView: true
+    panelContrast: true
+    showTabIcons: "Show on all tabs"
+    slimScrollbar: true
+    tabSize: "Big"
+    depth: true
+  emmet: {}
+  "spell-check": {}
+  "linter-jshint":
+    lintInlineJavaScript: true
+  "auto-update-packages": {}
