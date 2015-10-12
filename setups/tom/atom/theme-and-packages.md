@@ -27,3 +27,5 @@
 - [rails-partials](https://atom.io/packages/rails-partials)
 - [rails-snippets](https://atom.io/packages/rails-snippets)
 - [toggle-quotes](https://atom.io/packages/toggle-quotes)
+- [sync-settings](https://atom.io/packages/sync-settings)
+- [recent-projects](https://atom.io/packages/recent-projects)
